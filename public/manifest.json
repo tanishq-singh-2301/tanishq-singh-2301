@@ -1,0 +1,35 @@
+{
+    "name": "Tanishq Singh",
+    "short_name": "Tanishq Singh",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#0d2821",
+    "background_color": "#0d2821",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/splash-screen/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/splash-screen/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/splash-screen/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/splash-screen/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
